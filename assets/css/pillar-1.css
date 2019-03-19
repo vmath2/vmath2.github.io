@@ -49,6 +49,9 @@
 *::after {
   box-sizing: border-box;
 }
+header .profile-info {
+  margin-top: 3.5rem !important;
+}
 
 html {
   font-family: sans-serif;
